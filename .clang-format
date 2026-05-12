@@ -1,0 +1,18 @@
+BasedOnStyle: LLVM
+
+IndentWidth: 4
+# ColumnLimit: 100
+PointerAlignment: Left
+
+BreakAfterOpenBracketFunction: true
+BreakBeforeCloseBracketFunction: true
+
+BinPackArguments: false
+BinPackParameters: OnePerLine
+
+AllowAllArgumentsOnNextLine: false
+AllowAllParametersOfDeclarationOnNextLine: false
+
+# IndentPPDirectives: BeforeHash
+
+AlignEscapedNewlines: Left
